@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Advice on ICPC NAC</title>
-    <link>https://askarkuvan.github.io/universal/tags/advice/</link>
-    <description>Recent content in Advice on ICPC NAC</description>
+    <title>Advice on Educenter | hugo education template</title>
+    <link>https://askarkuvan.github.io/educenter/tags/advice/</link>
+    <description>Recent content in Advice on Educenter | hugo education template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://askarkuvan.github.io/universal/tags/advice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://askarkuvan.github.io/educenter/tags/advice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ</title>
-      <link>https://askarkuvan.github.io/universal/blog/faq/</link>
+      <link>https://askarkuvan.github.io/educenter/blog/faq/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/universal/blog/faq/</guid>
+      <guid>https://askarkuvan.github.io/educenter/blog/faq/</guid>
       <description>Frequently Asked Questions about the North America Championship - NAC 2020 1.</description>
     </item>
     
     <item>
       <title>Sponsoring</title>
-      <link>https://askarkuvan.github.io/universal/blog/sponsoring/</link>
+      <link>https://askarkuvan.github.io/educenter/blog/sponsoring/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/universal/blog/sponsoring/</guid>
+      <guid>https://askarkuvan.github.io/educenter/blog/sponsoring/</guid>
       <description>Interested in ICPC Sponsorship? Contact sponsor@icpc.foundation About the ICPC Foundation The ICPC Foundation is a 501(c)(3) organization founded to advance the art and sport of competitive programming for the benefit of society.</description>
     </item>
     

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on ICPC NAC</title>
-    <link>https://askarkuvan.github.io/universal/tags/education/</link>
-    <description>Recent content in Education on ICPC NAC</description>
+    <title>Education on Educenter | hugo education template</title>
+    <link>https://askarkuvan.github.io/educenter/tags/education/</link>
+    <description>Recent content in Education on Educenter | hugo education template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://askarkuvan.github.io/universal/tags/education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://askarkuvan.github.io/educenter/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rules</title>
-      <link>https://askarkuvan.github.io/universal/blog/rules/</link>
+      <link>https://askarkuvan.github.io/educenter/blog/rules/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/universal/blog/rules/</guid>
+      <guid>https://askarkuvan.github.io/educenter/blog/rules/</guid>
       <description>Announcing the ICPC North America Championship The 2019 ICPC North America Region-Specific Rules Introduction The 2019 ICPC North America regional contests are organized into eleven regional contests.</description>
     </item>
     

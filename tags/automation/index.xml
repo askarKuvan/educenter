@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Automation on ICPC NAC</title>
-    <link>https://askarkuvan.github.io/universal/tags/automation/</link>
-    <description>Recent content in Automation on ICPC NAC</description>
+    <title>Automation on Educenter | hugo education template</title>
+    <link>https://askarkuvan.github.io/educenter/tags/automation/</link>
+    <description>Recent content in Automation on Educenter | hugo education template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://askarkuvan.github.io/universal/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://askarkuvan.github.io/educenter/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rules</title>
-      <link>https://askarkuvan.github.io/universal/blog/rules/</link>
+      <link>https://askarkuvan.github.io/educenter/blog/rules/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/universal/blog/rules/</guid>
+      <guid>https://askarkuvan.github.io/educenter/blog/rules/</guid>
       <description>Announcing the ICPC North America Championship The 2019 ICPC North America Region-Specific Rules Introduction The 2019 ICPC North America regional contests are organized into eleven regional contests.</description>
     </item>
     
     <item>
       <title>Sponsoring</title>
-      <link>https://askarkuvan.github.io/universal/blog/sponsoring/</link>
+      <link>https://askarkuvan.github.io/educenter/blog/sponsoring/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/universal/blog/sponsoring/</guid>
+      <guid>https://askarkuvan.github.io/educenter/blog/sponsoring/</guid>
       <description>Interested in ICPC Sponsorship? Contact sponsor@icpc.foundation About the ICPC Foundation The ICPC Foundation is a 501(c)(3) organization founded to advance the art and sport of competitive programming for the benefit of society.</description>
     </item>
     
