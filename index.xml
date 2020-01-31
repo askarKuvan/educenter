@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICPC NAC</title>
-    <link>https://askarkuvan.github.io/educenter/</link>
+    <link>/</link>
     <description>Recent content on ICPC NAC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://askarkuvan.github.io/educenter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ</title>
-      <link>https://askarkuvan.github.io/educenter/blog/faq/</link>
+      <link>/blog/faq/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/educenter/blog/faq/</guid>
+      <guid>/blog/faq/</guid>
       <description>Frequently Asked Questions about the North America Championship - NAC 2020 1.</description>
     </item>
     
     <item>
       <title>Rules</title>
-      <link>https://askarkuvan.github.io/educenter/blog/rules/</link>
+      <link>/blog/rules/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/educenter/blog/rules/</guid>
+      <guid>/blog/rules/</guid>
       <description>Announcing the ICPC North America Championship The 2019 ICPC North America Region-Specific Rules Introduction The 2019 ICPC North America regional contests are organized into eleven regional contests.</description>
     </item>
     
     <item>
       <title>Sponsoring</title>
-      <link>https://askarkuvan.github.io/educenter/blog/sponsoring/</link>
+      <link>/blog/sponsoring/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://askarkuvan.github.io/educenter/blog/sponsoring/</guid>
+      <guid>/blog/sponsoring/</guid>
       <description>Interested in ICPC Sponsorship? Contact sponsor@icpc.foundation About the ICPC Foundation The ICPC Foundation is a 501(c)(3) organization founded to advance the art and sport of competitive programming for the benefit of society.</description>
     </item>
     
